@@ -1,2 +1,2 @@
 # PSE-Web-Scrapping - COMING SOON
-Scrapping Stock Data in Philippine Stock Exchange
+Scraping Stock Data in Philippine Stock Exchange
